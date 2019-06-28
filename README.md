@@ -27,6 +27,8 @@ request? Do it! We will appreciate it.
 
 ---
 
+## Liked it?
+Please star the repo if you liked it or if it helped you somehow! :)
 
 
 
